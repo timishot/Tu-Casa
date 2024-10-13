@@ -1,4 +1,5 @@
-## TU CASA: Accommodation Renting Platform
+## Welcome to Tu casa
+i love jesus
 
 ### Overview
 Tu Casa is an online accommodation platform aimed at simplifying the hostel rental process.
